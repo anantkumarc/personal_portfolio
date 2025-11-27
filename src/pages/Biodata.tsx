@@ -78,7 +78,7 @@ const Biodata = () => {
                     <Linkedin className="h-5 w-5 text-primary" />
                     <h3 className="font-semibold text-foreground">LinkedIn</h3>
                   </div>
-                  <p className="text-muted-foreground text-sm">[linkedin.com/in/yourprofile]</p>
+                  <p className="text-muted-foreground text-sm">[linkedin.com/in/ananthc]</p>
                 </div>
 
                 <div className="p-5 rounded-lg bg-card border border-border hover:shadow-soft transition-shadow">
@@ -86,7 +86,7 @@ const Biodata = () => {
                     <Github className="h-5 w-5 text-primary" />
                     <h3 className="font-semibold text-foreground">GitHub</h3>
                   </div>
-                  <p className="text-muted-foreground text-sm">[github.com/yourprofile]</p>
+                  <p className="text-muted-foreground text-sm">[github.com/anantkumarc]</p>
                 </div>
               </div>
             </section>
@@ -150,10 +150,11 @@ const Biodata = () => {
                 <div className="p-5 rounded-lg bg-secondary/5 border-l-4 border-secondary">
                   <h3 className="font-semibold text-foreground mb-2">Personal Hobbies</h3>
                   <ul className="text-muted-foreground space-y-1">
-                    <li>• [ 1]</li>
-                    <li>• [ 2]</li>
-                    <li>• [ 3]</li>
-                    <li>• [ 4]</li>
+                    <li>•  Coding & Building Projects </li>
+                    <li>•  Photography </li>
+                    <li>• dancing</li>
+                    <li>• Music & Listening to Songs</li>
+                     <li>• Gaming</li>
                   </ul>
                 </div>
               </div>

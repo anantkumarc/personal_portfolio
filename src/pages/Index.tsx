@@ -17,10 +17,10 @@ const Index = () => {
             </div>
 
             {/* Hello Text & Bio */}
-            <div className="text-center md:text-left max-w-xl">
-              <h1 className="text-6xl md:text-7xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent mb-4">
-                Hello
-              </h1>
+            <div className="text-center md:text-left">
+               <h1 className="text-6xl md:text-7xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent mb-4 whitespace-nowrap">
+                Hello, this is Ananth
+               </h1>
               <p className="text-2xl text-foreground font-medium mb-4">
                 Welcome to my portfolio
               </p>
